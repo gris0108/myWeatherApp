@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+.position-relative{
+    position: relative;
+}
+
+.margin-top-s{
+    margin-top: 0.5rem;
+}
+
+.margin-top-lg{
+    margin-top: 3rem;
+}
